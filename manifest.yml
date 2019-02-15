@@ -1,4 +1,4 @@
 ---
 applications:
-- name: game-2048
+- name: CF-Azure
   buildpack: staticfile_buildpack
